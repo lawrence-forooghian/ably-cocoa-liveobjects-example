@@ -1,5 +1,5 @@
 {
-  "originHash" : "b7b1c9b9d0f0747bfd7f9800baa9602d7479609077d36d4408c8f29966ba5f1e",
+  "originHash" : "2033248312e1fe4d3e51fbacfc19a847fd4c8526d50ef6e21b607d0d1dfcc595",
   "pins" : [
     {
       "identity" : "ably-cocoa",
@@ -7,7 +7,7 @@
       "location" : "https://github.com/ably/ably-cocoa",
       "state" : {
         "branch" : "2035-investigate-liveobjects-plugin",
-        "revision" : "2a6e3dddd83aca392e1c79e323ace358eb5ab25a"
+        "revision" : "b69d820ce2f24097fe693f3e864f2bf6da3b7653"
       }
     },
     {
@@ -16,7 +16,7 @@
       "location" : "https://github.com/lawrence-forooghian/ably-cocoa-liveobjects-plugin",
       "state" : {
         "branch" : "main",
-        "revision" : "774fbeafac0202728e87716247bc35119eedb625"
+        "revision" : "7b7ba9490e9e4d3c68da68d7f33766331796ed4c"
       }
     },
     {

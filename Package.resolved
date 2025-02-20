@@ -1,0 +1,42 @@
+{
+  "originHash" : "b7b1c9b9d0f0747bfd7f9800baa9602d7479609077d36d4408c8f29966ba5f1e",
+  "pins" : [
+    {
+      "identity" : "ably-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ably/ably-cocoa",
+      "state" : {
+        "branch" : "2035-investigate-liveobjects-plugin",
+        "revision" : "2a6e3dddd83aca392e1c79e323ace358eb5ab25a"
+      }
+    },
+    {
+      "identity" : "ably-cocoa-liveobjects-plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/lawrence-forooghian/ably-cocoa-liveobjects-plugin",
+      "state" : {
+        "branch" : "main",
+        "revision" : "774fbeafac0202728e87716247bc35119eedb625"
+      }
+    },
+    {
+      "identity" : "delta-codec-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ably/delta-codec-cocoa",
+      "state" : {
+        "revision" : "3ee62ea40a63996b55818d44b3f0e56d8753be88",
+        "version" : "1.3.3"
+      }
+    },
+    {
+      "identity" : "msgpack-objective-c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rvi/msgpack-objective-C",
+      "state" : {
+        "revision" : "3e36b48e04ecd756cb927bd5f5b9bf6d45e475f9",
+        "version" : "0.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}

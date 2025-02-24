@@ -7,7 +7,7 @@
       "location" : "https://github.com/ably/ably-cocoa",
       "state" : {
         "branch" : "2035-investigate-liveobjects-plugin",
-        "revision" : "b69d820ce2f24097fe693f3e864f2bf6da3b7653"
+        "revision" : "95cba13f2fbd9034e086eaf14526088f5f8cde87"
       }
     },
     {
@@ -16,7 +16,7 @@
       "location" : "https://github.com/lawrence-forooghian/ably-cocoa-liveobjects-plugin",
       "state" : {
         "branch" : "main",
-        "revision" : "7b7ba9490e9e4d3c68da68d7f33766331796ed4c"
+        "revision" : "538248d75de3386f0427325f26f6fb44b2ac2be8"
       }
     },
     {

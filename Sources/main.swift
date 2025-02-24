@@ -12,3 +12,9 @@ print("got the channel")
 // Here we demonstrate that we can use the API of LiveObjects
 print(channel.liveObjects.someStruct)
 channel.liveObjects.doALiveObjectsThing()
+
+// this is what we want to not work
+//channel.pluginDataValue(forKey: "hello")
+//let foo = PluginAPI.self
+//let foo: APLiveObjectsPluginProtocol
+//let bar: APLiveObjectsPluginFactoryProtocol

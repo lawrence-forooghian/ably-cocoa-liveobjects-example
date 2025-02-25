@@ -2,7 +2,7 @@ import Ably
 import AblyLiveObjects
 
 let clientOptions = ARTClientOptions(key: "INSERT API KEY HERE")
-clientOptions.liveObjectsPlugin = AblyLiveObjects.Plugin.self
+clientOptions.plugins = [.liveObjects : AblyLiveObjects.Plugin.self]
 clientOptions.logLevel = .verbose
 
 let realtime = ARTRealtime(options: clientOptions)
